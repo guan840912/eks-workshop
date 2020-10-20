@@ -1,1 +1,1 @@
-FROM eks-workshop/eks-workshop-gitpod-base
+FROM ghcr.io/guan840912/eks-workshop/eks-workshop-gitpod-base
